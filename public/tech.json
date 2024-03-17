@@ -1,0 +1,50 @@
+[
+    {
+       "id": 101,
+      "images": "https://i.ibb.co/jbF4jQf/html.png",
+       "title": "HTML",
+      "author": "Tim Berners-Lee"
+    
+    
+    },
+    {
+        "id": 102,
+        "images": "https://i.ibb.co/H7T71Qb/sta-je-css.jpg",
+         "title": "VANILA CSS",
+        "author": "HÃ¥kon Wium Lie"
+      
+    },
+    {
+        "id": 103,
+        "images": "https://i.ibb.co/qFpP452/js.webp",
+         "title": " javaScript",
+        "author": "Brendan Eich"
+      
+   
+    },
+    {
+        "id": 104,
+        "images": "https://i.ibb.co/CmcTkZw/react.png",
+         "title": "REACT.JS",
+        "author": "JORDAN WALK"
+      
+    },
+    {
+        "id": 105,
+        "images": "https://i.ibb.co/r5FQT1c/nextjs3.webp",
+         "title": "NEXT.JS",
+        "author": "Guillermo Rauch"
+      
+    
+    },
+    {
+        "id": 106,
+        "images": "https://i.ibb.co/c8pbW7S/redux.jpg",
+         "title": "REDUX",
+        "author": "Abramov and Andrew "
+      
+   
+    }
+   
+  ]
+  
